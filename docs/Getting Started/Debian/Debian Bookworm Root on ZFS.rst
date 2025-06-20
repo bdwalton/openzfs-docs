@@ -565,6 +565,8 @@ Step 4: System Configuration
 
    Customize this file if the system is not a DHCP client.
 
+   **Hint:** You may need to install firmware-linux-* packages for your adapter and other wireless network utilities as well.
+
 #. Configure the package sources::
 
      vi /mnt/etc/apt/sources.list
